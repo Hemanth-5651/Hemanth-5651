@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemanth5651).
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemanth-5651).
 
 - 💬 Ask me about **Python and Machine learning**
 
